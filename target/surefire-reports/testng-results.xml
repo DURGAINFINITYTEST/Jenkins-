@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-18T19:56:43 IST" name="Suite" finished-at="2023-06-18T19:56:43 IST" duration-ms="121">
+  <suite started-at="2023-06-27T18:03:27 IST" name="Suite" finished-at="2023-06-27T18:03:27 IST" duration-ms="209">
     <groups>
     </groups>
-    <test started-at="2023-06-18T19:56:43 IST" name="Test" finished-at="2023-06-18T19:56:43 IST" duration-ms="121">
+    <test started-at="2023-06-27T18:03:27 IST" name="Test" finished-at="2023-06-27T18:03:27 IST" duration-ms="209">
       <class name="JenkinsIntegration.JenkinsIntegration.FisrtClass">
-        <test-method signature="FirstTest()[pri:0, instance:JenkinsIntegration.JenkinsIntegration.FisrtClass@13fd2ccd]" started-at="2023-06-18T19:56:43 IST" name="FirstTest" finished-at="2023-06-18T19:56:43 IST" duration-ms="1" status="PASS">
+        <test-method signature="FirstTest()[pri:0, instance:JenkinsIntegration.JenkinsIntegration.FisrtClass@13fd2ccd]" started-at="2023-06-27T18:03:27 IST" name="FirstTest" finished-at="2023-06-27T18:03:27 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FirstTest -->
       </class> <!-- JenkinsIntegration.JenkinsIntegration.FisrtClass -->
       <class name="JenkinsIntegration.JenkinsIntegration.SecondClass">
-        <test-method signature="SecondTest()[pri:0, instance:JenkinsIntegration.JenkinsIntegration.SecondClass@4310d43]" started-at="2023-06-18T19:56:43 IST" name="SecondTest" finished-at="2023-06-18T19:56:43 IST" duration-ms="16" status="PASS">
+        <test-method signature="SecondTest()[pri:0, instance:JenkinsIntegration.JenkinsIntegration.SecondClass@4310d43]" started-at="2023-06-27T18:03:27 IST" name="SecondTest" finished-at="2023-06-27T18:03:27 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SecondTest -->
